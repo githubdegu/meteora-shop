@@ -4,8 +4,8 @@ Este repositório contém uma Landing Page criada com Bootstrap 5, baseada no cu
 
 ## Tecnologias Utilizadas
 
-- **CSS** (.%)
-- **HTML** (.%)
+- **CSS** (1.8%)
+- **HTML** (98.2%)
 
 ## Como Executar o Projeto
 
