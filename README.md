@@ -1,10 +1,8 @@
 ### Detalhes do Repositório
 
 - Nome: meteora-shop
-- Descrição: Este repositório contém uma Landing Page criada com Bootstrap 5, baseada no curso da Alura sobre o desenvolvimento de páginas responsivas.
 - Linguagem principal: HTML
 - Licença: MIT License
-- URL: [meteora-shop](https://github.com/githubdegu/meteora-shop)
 - Homepage: [meteora-shop-zeta.vercel.app](https://meteora-shop-zeta.vercel.app)
 
 
