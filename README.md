@@ -1,32 +1,33 @@
-### Detalhes do Repositório
-
-- Nome: meteora-shop
-- Linguagem principal: HTML
-- Licença: MIT License
-- Homepage: [meteora-shop-zeta.vercel.app](https://meteora-shop-zeta.vercel.app)
-
-
-# meteora-shop
+# Meteora Shop
 
 Este repositório contém uma Landing Page criada com Bootstrap 5, baseada no curso da Alura sobre o desenvolvimento de páginas responsivas.
 
-## Instalação
+## Tecnologias Utilizadas
 
-Para clonar e rodar este projeto localmente, siga os passos abaixo:
+- **CSS** (.%)
+- **HTML** (.%)
 
-```bash
-git clone https://github.com/githubdegu/meteora-shop.git
-cd meteora-shop
-```
+## Como Executar o Projeto
 
-## Uso
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/githubdegu/meteora-shop.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd meteora-shop
+   ```
+3. Abra o arquivo `index.html` em seu navegador.
 
-Para visualizar a página localmente, abra o arquivo `index.html` no seu navegador.
+## Contribuições
 
-## Contribuição
-
-Para contribuir com este projeto, por favor, abra uma issue ou envie um pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Repositório
+
+[meteora-shop-zeta.vercel.app](https://meteora-shop-zeta.vercel.app)
+
